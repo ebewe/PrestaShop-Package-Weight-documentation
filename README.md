@@ -1,2 +1,2 @@
 # PrestaShop-Package-Weight-documentation
-Documentation du module PrestaShop Poids de l'emballage
+Documentation for PrestaShop module Package Weight

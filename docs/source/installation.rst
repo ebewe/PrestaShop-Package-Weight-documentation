@@ -1,26 +1,26 @@
 Installation
 ============
 
-Pour installer le module, suivez les étapes suivantes:
+To install the module, follow these steps:
 
-Tout d'abord, rendez-vous sur la page Modules de votre Back-Office
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+First, go to Modules page in your Back-Office
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. image:: img/install_1.png
-   :alt: Allez sur la page Modules
+   :alt: Go to Modules page
 
-Ensuite, cliquez sur Ajouter un nouveau module
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Then, click on Add a new module
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. image:: img/install_2.png
-   :alt: Ajouter un nouveau module
+   :alt: Add a new module
 
-Choisissez un fichier sur votre ordinateur (étape 1) et Chargez le module sur votre boutique (étape 2)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Choose the file on your computer (step 1) and Upload the module to your shop (step 2)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. image:: img/install_3.png
-   :alt: Choisissez et Chargez le module
+   :alt: Choose and Upload the module
 
-Cliquez sur Installer
-^^^^^^^^^^^^^^^^^^^^^
+Click on Install
+^^^^^^^^^^^^^^^^
 .. image:: img/install_4.png
-   :alt: Installez le module
+   :alt: Install the module
 
-L'installation est terminée ! Vous pouvez maintenant vous rendre sur la page :doc:`configuration`
+Installation is complete ! You can now go to :doc:`configuration`
