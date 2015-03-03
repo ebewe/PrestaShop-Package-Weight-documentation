@@ -1,18 +1,18 @@
 Configuration
 =============
 
-There is no actual configuration page.
+Il n'existe pas de page de configuration en tant que telle.
 
-To enter a package weight for a carrier, simply go to Shipping > Carriers page and click on Modify to edit the carrier you want.
+Pour renseigner un poids d'emballage pour un transporteur, rendez-vous simplement sur la page Livraison > Transporteurs et cliquez sur Modifier pour éditer le transporteur souhaité.
 
-Add a package weight
-^^^^^^^^^^^^^^^^^^^^
+Ajoutez un poids d'emballage
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. image:: img/config_1.png
-   :alt: Add a package weight
+   :alt: Ajoutez un poids d'emballage
 
-Enter a Package Weight in kilos. (Leave the field empty if you do not want to use this option. It will set the package weight to 0).
-Click on Finish to save your changes and go back to Carriers page.
+Renseignez un poids d'emballage en kilos. (Laissez le champ vide si vous ne souhaitez pas utiliser cette option. Le poids d'emballage sera alors de 0).
+Cliquez sur Terminer pour enregistrer vos changements et retourner à la page Transporteurs.
 
-That's all you need to do.
-Your package weight for this carrier is set.
-You can do this operation for as many carriers as you want.
+C'est tout ce que vous avez à faire.
+Votre poids d'emballage est enregistré pour ce transporteur.
+Vous pouvez répéter cette opération pour autant de transporteurs que vous le souhaitez.

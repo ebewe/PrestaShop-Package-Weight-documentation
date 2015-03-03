@@ -1,13 +1,13 @@
-PrestaShop Module - Package Weight
-==================================
+Module PrestaShop - Package Weight
+===========================
 
-The PrestaShop Module - **Package Weight** - allows you to add a weight for the package of each one of your carriers.
+Le Module PrestaShop - **Package Weight** - vous permet d'ajouter un poids d'emballage pour chacun de vos transporteurs.
 
-For now the module is only available for PrestaShop 1.6.
+Pour le moment le module n'est disponible que pour PrestaShop 1.6.
 
-It is easy to install and configure. This documentation will explain you how to do that.
+Il est simple à installer et configurer. Cette documentation est là pour vous expliquer comment faire.
 
-If you need help or a custom development, feel free to contact me on `http://ebewe.net/#contact <http://ebewe.net/#contact>`_
+Si vous avez besoin d'aide ou d'un développement spécifique, n'hésitez pas à me contacter sur `http://ebewe.net/#contact <http://ebewe.net/#contact>`_
 
 
 Index:
@@ -18,5 +18,5 @@ Index:
 
    installation
    configuration
-   uninstallation
+   désinstallation
    conclusion
